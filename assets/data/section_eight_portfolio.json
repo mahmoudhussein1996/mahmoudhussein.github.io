@@ -6,6 +6,76 @@
     "subTitle": "My work",
     "projects":[
       {
+        "appMainColor": "#FFBF00",
+        "appIcon": "gamezcard.png",
+        "appName": "Gamez Card",
+        "appBio": "Get Our App Now Enjoy The Services Provided",
+        "fullDescription": "GAMEZACARD is e-commerce offer best  accessories from high quality brands like Apple iPhone, Samsung, iPad, Apple accessories, Tablets, LG, Sony, Promate, Lamborghini and Ferrari., and purchase gamming cards like pubg and playstation",
+        "mainPreviewImage": "gamezcard.png",
+        "appStoreId": "1514851499",
+        "playPackageId": "com.GamezCard.GamezCard",
+        "presentationImage": "gamezcard.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": " Buy Special GAMEZACARD numbers and deliver it to your address without need to go to store"
+          },
+          {
+            "future": "Pay GAMEZACARD & VIVA & Oredoo bills"
+          },
+
+          {
+            "future": "rewards and discounts by referring friends"
+          },
+          {
+            "future": "points for every purchase process"
+          },
+          {
+            "future": "technicall support agent chating and call for in any time"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#5179F0",
+        "appIcon": "zaintwseel.png",
+        "appName": "Zain Tawseel",
+        "appBio": "Get Our App Now Enjoy The Services Provided",
+        "fullDescription": "Zain Tawseel is e-commerce offer best accessories from high quality brands like Apple iPhone, Samsung, iPad, Apple accessories, Tablets, LG, Sony, Promate, Lamborghini and Ferrari., and purchase gamming cards like pubg and playstation",
+        "mainPreviewImage": "zaintwseel.png",
+        "appStoreId": "1514851499",
+        "playPackageId": "com.zain_tawseel_2",
+        "presentationImage": "zaintwseel.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": " Buy Special Gamming numbers and deliver it to your address without need to go to store"
+          },
+          {
+            "future": "Pay Gamming Cards & VIVA & Oredoo bills"
+          },
+
+          {
+            "future": "rewards and discounts by referring friends"
+          },
+          {
+            "future": "points for every purchase process"
+          },
+          {
+            "future": "technicall support agent chating and call for in any time"
+          }
+        ]
+      },
+      {
         "appMainColor": "#2BAAB7",
         "appIcon": "guidle.png",
         "appName": "Guidlle",

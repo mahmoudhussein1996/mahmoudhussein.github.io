@@ -17,12 +17,12 @@
       {
         "type":8,
         "title": "Age",
-        "value": "28 Years"
+        "value": "29 Years"
       },
       {
         "type":8,
         "title": "Relationship",
-        "value": "Single"
+        "value": "married"
       },
       {
         "type":7,
@@ -38,9 +38,9 @@
     ],
     "chartSection":{
       "enabled": true,
-      "totalAppsCount":100,
+      "totalAppsCount":21,
       "iosAppsCount":10,
-      "androidAppsCount":5,
+      "androidAppsCount":10,
       "webProjects":1
     }
   }

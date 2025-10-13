@@ -4,15 +4,21 @@
   "data":{
     "enabled": true,
     "experiences":[
-      
+      {
+        "startYear": "Apr 2021",
+        "endYear": "Apr 2022",
+        "companyName": "Dallel Dev",
+        "companyLogoUrl": "dalled_Dev.webp",
+        "position": "Junior Flutter Developer",
+        "freelance": false
+      },
       {
         "startYear": "May 2022",
         "endYear": "May 2023",
         "companyName": "Focal Point Egypt",
         "companyLogoUrl": "focalpoint_logo.jpg",
         "position": "Mid-level Flutter Developer",
-        "freelance": false,
-        "freelanceDate": ""
+        "freelance": false
       },
       {
         "startYear": "May 2023",
@@ -20,9 +26,15 @@
         "companyName": "Almotahida Education Group Egypt",
         "companyLogoUrl": "Almotahid_logo.jpg",
         "position": "Senior Mobile Developer",
-        "freelance": false,
-        "freelanceDate": ""
-      }
+        "freelance": false
+      },
+      {
+        "startYear": "jan 2025",
+        "endYear": "now",
+        "companyName": "Kuwait star",
+        "companyLogoUrl": "kuwait-star-logo.png",
+        "position": "Senior Mobile Developer",
+        "freelance": false      }
 
     ]
   }
