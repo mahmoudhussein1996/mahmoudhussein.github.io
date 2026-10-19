@@ -29,13 +29,21 @@
         "freelance": false
       },
       {
-        "startYear": "jan 2025",
-        "endYear": "now",
+        "startYear": "Jan 2025",
+        "endYear": "Nov 2025",
         "companyName": "Kuwait star",
         "companyLogoUrl": "kuwait-star-logo.png",
         "position": "Senior Mobile Developer",
-        "freelance": false      }
-
+        "freelance": false
+      },
+      {
+        "startYear": "Nov 2025",
+        "endYear": "Present",
+        "companyName": "Ashtar",
+        "companyLogoUrl": "ashtar_logo.png",
+        "position": "Mobile Team Lead",
+        "freelance": false
+      }
     ]
   }
 }

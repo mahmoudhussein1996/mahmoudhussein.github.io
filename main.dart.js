@@ -83621,7 +83621,7 @@ $.j.toString
 return A.atc(b,A.atb(!1,A.hO(a2,A.a([r,q,A.cW(A.n9(b,A.br(A.a([A.aX(b,A.yU(B.hA,g,A.m(a4,b).a.b*0.03),B.k,b,b,b,b,b,b,new A.ab(o.a.b*0.02,p.a.b*0.005,0,0),b,b,b,b)],c),B.o,B.l,B.j),B.ah,!1,b,b,b,b,b,b,b,b,b,b,b,b,b,b,new A.afc(a5),b,b,b),B.I,a1.a.a<600)],c),B.R,B.aG),!0),b,b,b)}}
 A.af9.prototype={
 $0(){var s=this.a.c,r=s.r
-this.b.rY(s.w,r,this.c,"https://apps.apple.com/au/app/e7la2ly/id"+r)},
+this.b.rY(s.w,r,this.c,"https://apps.apple.com/app/id"+r)},
 $S:0}
 A.afa.prototype={
 $0(){var s=this.a.c,r=s.w
@@ -83912,7 +83912,7 @@ $.j.toString
 q=A.m(q,f)
 s=A.ac(a,f,s).w.a.a<600?1:2
 g=t.p
-return A.aX(f,A.b6(A.a([m,l,A.br(A.a([A.b0(A.asm(new A.C7(s,h.a.b*0.02,i.a.b*0.08,k.a.b*6/j.a.b*0.2,q.a.b*0.082),new A.ae7(this),e,B.aB,B.ik,!0),1)],g),B.o,B.l,B.j)],g),B.z,B.l,B.j),B.k,f,f,n,f,f,f,new A.ab(0,o,0,0),new A.ab(r,r,r,r),f,f,f)}return B.Y}}
+return A.aX(f,A.b6(A.a([m,l,A.br(A.a([A.b0(A.asm(new A.C7(s,h.a.b*0.02,i.a.b*0.08,k.a.b*6/j.a.b*0.2,q.a.b*(s===1?0.12:0.082)),new A.ae7(this),e,B.aB,B.ik,!0),1)],g),B.o,B.l,B.j)],g),B.z,B.l,B.j),B.k,f,f,n,f,f,f,new A.ab(0,o,0,0),new A.ab(r,r,r,r),f,f,f)}return B.Y}}
 A.ae7.prototype={
 $2(a,b){var s,r=this.a.c.c,q=r[b].c
 q=A.aU(A.b8(q,"#","0xff"),null)
@@ -83953,7 +83953,7 @@ $.j.toString
 h=A.m(q,f)
 s=A.ac(a,f,s).w.a.a<600?1:2
 g=t.p
-e=A.br(A.a([A.b0(A.asm(new A.C7(s,i.a.b*0.02,j.a.b*0.08,l.a.b*6/k.a.b*0.2,h.a.b*0.082),new A.aed(this),e,B.aB,B.ik,!0),1)],g),B.o,B.l,B.j)
+e=A.br(A.a([A.b0(A.asm(new A.C7(s,i.a.b*0.02,j.a.b*0.08,l.a.b*6/k.a.b*0.2,h.a.b*(s===1?0.12:0.082)),new A.aed(this),e,B.aB,B.ik,!0),1)],g),B.o,B.l,B.j)
 $.j.toString
 return A.aX(f,A.b6(A.a([n,m,e,A.aj(f,A.m(q,f).a.b*0.02,f)],g),B.z,B.l,B.j),B.k,f,f,o,f,f,f,f,new A.ab(r,r,r,r),f,f,f)}return B.Y}}
 A.aed.prototype={
@@ -83963,22 +83963,13 @@ s=A.kX(J.et(r[b].b))
 return new A.qy(new A.K(q>>>0),r[b].a,s,null)},
 $S:153}
 A.qy.prototype={
-L(a){var s,r,q,p,o=null,n=new A.N().dI(1),m=this.e
+L(a){var s,n,m,o=null
 $.j.toString
 s=$.al()
-r=A.m(s,o)
-$.j.toString
-q=A.m(s,o)
-p=A.ae(a).p3.w
-p.toString
-p=new A.xh(m,q.a.b*0.027,r.a.b*0.003,n,!0,2000,A.bm(A.f(m*100)+"%",o,o,p.aS(new A.N().be(1),B.W),o),!0,!0,B.E3,o)
-p.x=this.c
-if(m<0||m>1)A.a1(A.b7("Percent value must be a double between 0.0 and 1.0, but it's "+A.f(m)))
-$.j.toString
-n=A.aj(o,o,A.m(s,o).a.b*0.02)
+n=A.aj(o,o,A.m(s,o).a.b*0.01)
 m=A.ae(a).p3.r
 m.toString
-return A.br(A.a([p,n,A.b0(A.bm(this.d,o,o,m.aS(new A.N().be(1),B.W),B.Z),1)],t.p),B.o,B.l,B.j)}}
+return A.br(A.a([A.bm("\u25cf",o,o,m.aS(this.c,B.W),o),n,A.b0(A.bm(this.d,o,o,m.aS(new A.N().be(1),B.W),B.Z),1)],t.p),B.o,B.l,B.j)}}
 A.a0x.prototype={
 ct(){var s=this.b,r=t.z
 return A.aN(["colors",this.a.ct(),"fontSize",A.dL(new A.aa(s,new A.a0z(),A.ad(s).h("aa<1,@>")),!0,r)],t.N,r)}}
